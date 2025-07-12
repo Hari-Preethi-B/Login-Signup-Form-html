@@ -1,7 +1,6 @@
 # Modified by HariPreethi
 # Login form & Sign Up form full Code
-https://mehedi61.github.io/Login-Signup-form/login.html
-[This]() is a [Login](https://github.com/Hari-Preethi-B/Login-Signup-Form-html.git) form and a [Sign up](https://github.com/Hari-Preethi-B/Login-Signup-Form-html.git) form.  
+[This](https://github.com/Hari-Preethi-B/Login-Signup-Form-html.git) is a [Login](https://github.com/Hari-Preethi-B/Login-Signup-Form-html.git) form and a [Sign up](https://github.com/Hari-Preethi-B/Login-Signup-Form-html.git) form.  
 Built with **HTML5** and **CSS3**. 
 
 ### Tasks
