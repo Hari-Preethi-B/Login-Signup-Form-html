@@ -1,4 +1,3 @@
-# Modified by HariPreethi
 # Login form & Sign Up form full Code
 [This](https://github.com/Hari-Preethi-B/Login-Signup-Form-html.git) is a [Login](https://github.com/Hari-Preethi-B/Login-Signup-Form-html.git) form and a [Sign up](https://github.com/Hari-Preethi-B/Login-Signup-Form-html.git) form.  
 Built with **HTML5** and **CSS3**. 
